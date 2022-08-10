@@ -7,7 +7,8 @@ public class palindomenum {
 		
 		//given 12321
 		//op:yes
-		
+		//branh changes
+		int xx=0;
 		Scanner reader=new Scanner(System.in);
 		System.out.println("Enter number");
 		int number=reader.nextInt();
